@@ -2,7 +2,7 @@
 
 Learning to use GitHub with Visual Studio Code and Python. Saying hello to the world.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Mt_Dh0DX61k)
 
 # Development Environment
 
